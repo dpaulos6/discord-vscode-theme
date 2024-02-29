@@ -2,9 +2,15 @@
   "name": "ashen",
   "displayName": "Ashen",
   "description": "Ashen is a dark gray based theme with easy to read syntax highlighting colors.",
+  "publisher": "dpaulos6",
   "version": "0.0.1",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.87.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dpaulos6/ashen-theme.git"
   },
   "categories": [
     "Themes"
