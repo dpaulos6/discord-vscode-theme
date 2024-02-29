@@ -3,7 +3,7 @@
   "displayName": "Ashen",
   "description": "Ashen is a dark gray based theme with easy to read syntax highlighting colors.",
   "publisher": "dpaulos6",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.10.0"
