@@ -143,7 +143,7 @@
         "meta.control.flow"
       ],
       "settings": {
-        "foreground": "#5787DB"
+        "foreground": "#526FF1df"
       }
     },
     {
@@ -209,7 +209,7 @@
       "name": "Storage",
       "scope": ["storage", "constant.language"],
       "settings": {
-        "foreground": "#87C4FF"
+        "foreground": "#87D9FF"
       }
     },
     {
