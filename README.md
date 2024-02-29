@@ -1,16 +1,10 @@
-# discord-vscode-theme README
+## Inspiration
 
-## Working with Markdown
+This theme was firstly inspired by Discord's dark theme colors, and then i decided to make my own syntax highlighting, with focus on readability and prevent eye strain from coding too long.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Theme Preview
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Additional Information
 
-## For more information
+This theme was created by [dpaulos6](https://github.com/dpaulos6/) and you can check all my extensions [here](https://marketplace.visualstudio.com/publishers/dpaulos6/).
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
