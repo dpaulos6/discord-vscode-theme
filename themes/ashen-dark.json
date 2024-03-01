@@ -28,7 +28,8 @@
     "textLink.foreground": "#39A7FF",
     "titleBar.activeBackground": "#181a1d",
     "titleBar.foreground": "#FFFFFF",
-    "focusBorder": "#ffffff00"
+    "focusBorder": "#ffffff00",
+    "panel.border": "#1e2124"
 	},
 
 	"tokenColors": [
