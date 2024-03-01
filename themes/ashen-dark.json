@@ -4,10 +4,11 @@
 		"editor.background": "#282b30",
 		"editor.foreground": "#eeffffd0",
     "editor.lineHighlightBackground": "#424549",
-    "editorLineNumber.activeForeground": "#5865F2",
+    "editorLineNumber.foreground": "#aeb1b5af",
+    "editorLineNumber.activeForeground": "#5b96f0",
     "editorGroupHeader.tabsBackground": "#181a1d",
     "editorGroupHeader.tabsBorder": "#1e2124",
-    "editorCursor.foreground": "#5865F2",
+    "editorCursor.foreground": "#5b96f0",
     "tab.activeBackground": "#36393e",
     "tab.activeForeground": "#ffffffbf",
     "tab.inactiveBackground": "#282b30",
@@ -21,6 +22,7 @@
     "sideBar.background": "#1e2124",
     "sideBar.foreground": "#ffffffbf",
     "button.background": "#387ADF",
+    "button.hoverBackground": "#387ADFcc",
     "dropdown.background": "#36393e",
     "input.background": "#424549",
     "textLink.foreground": "#5865F2",
@@ -224,7 +226,6 @@
       "scope": [
         "string",
         "punctuation.definition.string",
-        "support.constant.property-value",
         "string.quoted.double.shell",
         "support.function.variable.quoted.single.elixir",
         "storage.type.string"
@@ -589,6 +590,46 @@
       "settings": {
         "foreground": "#ff936a"
       }
+    },
+    {
+      "scope": [
+        "support.type.property-name.css",
+        "support.constant.property-value.css",
+        "meta.property-list.css"
+      ],
+      "settings": {
+        "foreground": "#59D5E0dc"
+      }
+    },
+    {
+      "scope": "entity.other.attribute-name.class.css",
+      "settings": {
+        "foreground": "#F6995C"
+      }
+    },
+    {
+      "scope": "support.type.property-name",
+      "settings": {
+        "foreground": "#9BCF53"
+      }
+    },
+    {
+      "scope": "keyword.control.at-rule",
+      "settings": {
+        "foreground": "#FF8080"
+      }
+    },
+    {
+      "scope": "entity.other.attribute-name.id.css",
+      "settings": {
+        "foreground": "#4a4ed9"
+      }
+    },
+    {
+      "scope": "support.type.property-name.json",
+      "settings": {
+        "foreground": "#C69774"
+      }
     }
-  ],
+  ]
 }
