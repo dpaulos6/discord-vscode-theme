@@ -25,9 +25,10 @@
     "button.hoverBackground": "#387ADFcc",
     "dropdown.background": "#36393e",
     "input.background": "#424549",
-    "textLink.foreground": "#5865F2",
+    "textLink.foreground": "#39A7FF",
     "titleBar.activeBackground": "#181a1d",
-    "titleBar.foreground": "#FFFFFF"
+    "titleBar.foreground": "#FFFFFF",
+    "focusBorder": "#ffffff00"
 	},
 
 	"tokenColors": [
