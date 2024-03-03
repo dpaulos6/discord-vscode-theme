@@ -220,7 +220,7 @@
       "name": "Support",
       "scope": "support.function",
       "settings": {
-        "foreground": "#DC84F3"
+        "foreground": "#F28585"
       }
     },
     {
@@ -476,13 +476,6 @@
       }
     },
     {
-      "name": "Css ID",
-      "scope": "entity.other.attribute-name.id",
-      "settings": {
-        "foreground": "#ff6480"
-      }
-    },
-    {
       "name": "Function Parameters",
       "scope": "meta.function-call.arguments",
       "settings": {
@@ -596,11 +589,16 @@
     {
       "scope": [
         "support.type.property-name.css",
-        "support.constant.property-value.css",
         "meta.property-list.css"
       ],
       "settings": {
-        "foreground": "#59D5E0dc"
+        "foreground": "#65C4F8"
+      }
+    },
+    {
+      "scope": "support.constant.property-value.css",
+      "settings": {
+        "foreground": "#C9D7DD"
       }
     },
     {
