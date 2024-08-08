@@ -3,7 +3,7 @@
   "displayName": "Ashen",
   "description": "Ashen is a dark gray based theme with easy to read syntax highlighting colors.",
   "publisher": "dpaulos6",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.10.0"
@@ -18,9 +18,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Ashen",
+        "label": "Ashen Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/ashen-dark.json"
+      },
+      {
+        "label": "Ashen Light",
+        "uiTheme": "vs",
+        "path": "./themes/ashen-light.json"
       }
     ]
   }

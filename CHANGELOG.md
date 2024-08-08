@@ -8,3 +8,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 - Few tweaks on highlighting
+
+## 0.2.0
+
+- Added a new Light Theme
+- Also added custom colors for status bar
