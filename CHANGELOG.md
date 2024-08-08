@@ -13,3 +13,18 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Added a new Light Theme
 - Also added custom colors for status bar
+
+## 0.2.1
+
+- Adjustments to Readme
+
+## 0.2.2
+
+- Adjustments to Readme
+- Attempt to revert 0.3.0 published by accident
+
+## 0.3.0
+
+This version's theme doesn't differ from the versions before
+
+- Accidental publish instead of 0.2.0
