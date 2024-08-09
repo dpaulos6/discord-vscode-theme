@@ -479,7 +479,7 @@
       "name": "Embedded",
       "scope": "variable.interpolation",
       "settings": {
-        "foreground": "#10b1f"
+        "foreground": "#10b51f"
       }
     },
     {

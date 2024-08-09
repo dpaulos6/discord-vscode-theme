@@ -2,6 +2,12 @@
 
 All notable changes to the "ashen" extension will be documented in this file.
 
+## 0.3.3
+
+### Fixed
+
+- One variable using incorrect color format on dark theme.
+
 ## 0.3.2
 
 ### Fixed
