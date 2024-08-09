@@ -3,7 +3,7 @@
   "displayName": "Ashen",
   "description": "Ashen is a dark gray theme optimized for readability and eye comfort. With clear syntax highlighting and soothing colors, it reduces eye strain and enhances focus during long coding sessions.",
   "publisher": "dpaulos6",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.10.0"
