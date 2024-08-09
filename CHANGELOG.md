@@ -2,7 +2,7 @@
 
 All notable changes to the "ashen" extension will be documented in this file.
 
-## 0.3.1
+## 0.3.2
 
 ### Fixed
 
