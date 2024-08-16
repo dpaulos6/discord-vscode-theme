@@ -2,6 +2,12 @@
 
 All notable changes to the "ashen" extension will be documented in this file.
 
+## 0.4.0
+
+### Fixed
+
+- New vibrant variant for dark theme. (Syntax highlighting from [Theme](https://marketplace.visualstudio.com/items?itemName=tal7aouy.theme))
+
 ## 0.3.3
 
 ### Fixed
