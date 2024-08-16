@@ -23,6 +23,11 @@
         "path": "./themes/ashen-dark.json"
       },
       {
+        "label": "Ashen Vibrant",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ashen-vibrant.json"
+      },
+      {
         "label": "Ashen Light",
         "uiTheme": "vs",
         "path": "./themes/ashen-light.json"
