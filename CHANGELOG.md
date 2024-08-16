@@ -4,11 +4,13 @@ All notable changes to the "ashen" extension will be documented in this file.
 
 ## 0.4.1
 
-- Removing italic syntax
+### Removed
+
+- Italic syntax
 
 ## 0.4.0
 
-### Fixed
+### Added
 
 - New vibrant variant for dark theme. (Syntax highlighting from [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme))
 
