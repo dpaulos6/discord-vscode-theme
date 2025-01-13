@@ -2,6 +2,12 @@
 
 All notable changes to the "ashen" extension will be documented in this file.
 
+## 0.4.2
+
+### Removed
+
+- Status bar colors update
+
 ## 0.4.1
 
 ### Removed
